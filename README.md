@@ -82,7 +82,7 @@ This platform bridges the gap between local businesses and customers by enabling
 ## 🛠️ Tech Stack (Suggested)
 
 - **Backend**: Node.js/Express, Python/Django, or Java/Spring Boot
-- **Database**: PostgreSQL with PostGIS extension or MongoDB with geospatial indexes
+- **Database**: MongoDB with geospatial indexes
 - **Caching**: Redis for frequently accessed data
 - **Search**: Elasticsearch for full-text search
 - **Maps**: Google Maps API or Mapbox
@@ -207,8 +207,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📧 Contact
 
 For questions or support, please reach out:
-- Email: your.email@example.com
-- Issue Tracker: [GitHub Issues](https://github.com/yourusername/hyperlocal-search-platform/issues)
+- Email: kumarneelu2656@gmail.com
+- Issue Tracker: [GitHub Issues](https://github.com/nk-121/Simple_project/issues)
 
 ---
 
